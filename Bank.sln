@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{96D5ED1D-33BB-4715-9CF7-03713C660C36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore", "MusicStore\MusicStore.csproj", "{04DC8BC3-0C96-4C60-9CCA-6854925BF771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{96D5ED1D-33BB-4715-9CF7-03713C660C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D5ED1D-33BB-4715-9CF7-03713C660C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D5ED1D-33BB-4715-9CF7-03713C660C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DC8BC3-0C96-4C60-9CCA-6854925BF771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DC8BC3-0C96-4C60-9CCA-6854925BF771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DC8BC3-0C96-4C60-9CCA-6854925BF771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DC8BC3-0C96-4C60-9CCA-6854925BF771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
